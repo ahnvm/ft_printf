@@ -1,1 +1,1 @@
-<p>Rewriting some behaviors printf function</p>
+<p>Rewriting some behaviors of printf function</p>
